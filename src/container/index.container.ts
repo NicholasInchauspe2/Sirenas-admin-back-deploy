@@ -1,0 +1,1 @@
+export { CRUDPostgreSQL } from "./crud.container"
